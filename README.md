@@ -1,6 +1,6 @@
 ### Hello everyone!
 
-My name is Joaquín Guerra Tocino and I'm currently studying **computer engineering** at the "Universidad de Cádiz", here in Spain.
+My name is Joaquín Guerra Tocino and I'm currently studying **computer engineering** at the *Universidad de Cádiz*, here in Spain.
 I love **Linux** and the **open source** community, although I'm also a fairly advanced Windows user.
 
 In my profile you can find:
