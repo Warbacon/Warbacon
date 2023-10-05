@@ -6,6 +6,7 @@ I love **Linux** and the **open source** community, although I'm also a fairly a
 In my profile you can find:
 
 - Projects to improve the terminal experience with zsh (check out [zunder-zsh](https://github.com/Warbacon/zunder-zsh)).
+- My Powershell [profile](https://github.com/Warbacon/powershell-profile).
 - Small experimental web applications.
 - Other cool stuff.
 
