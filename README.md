@@ -10,9 +10,6 @@ In my profile you can find:
 - Small experimental web applications.
 - Other cool stuff.
 
-At some point I plan to create a script to **configure Powershell** in Windows and make the terminal experience **not so horrible**.
-I already have the configuration quite advanced.
-
 <a href="https://github.com/warbacon">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=warbacon&theme=github_dark&hide=html,markdown,glsl,lua,python,c&langs_count=3&hide_border=true&exclude_repo=zunder-prompt,dwm" />
 </a>
