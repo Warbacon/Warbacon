@@ -1,18 +1,11 @@
-### Hello everyone!
+### Warbacon
 
-My name is Joaquín Guerra Tocino and I'm currently studying **computer engineering** at the *Universidad de Cádiz*, here in Spain.
-I love **Linux** and the **open source** community, although I'm also a fairly advanced Windows user.
+I'm currently studying **computer engineering** at the *University of Cadiz*.
+I love **Linux** and the **open source** community, although I'm also a fairly advanced Windows user too.
 
-In my profile you can find:
+**Projects:**
 
-- Projects to improve the terminal experience with zsh (check out [zunder-zsh](https://github.com/Warbacon/zunder-zsh)).
-- My Powershell [profile](https://github.com/Warbacon/powershell-profile).
-- Small experimental web applications.
-- Other cool stuff.
-
-<a href="https://github.com/warbacon">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=warbacon&theme=github_dark&hide=html,markdown,glsl,lua,python,c&langs_count=3&hide_border=true&exclude_repo=zunder-prompt,dwm" />
-</a>
-<a href="https://github.com/warbacon">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=warbacon&show_icons=true&count_private=true&line_height=27&theme=github_dark&hide_border=true" />
-</a>
+- I'm activily developing [zunder-zsh](https://github.com/Warbacon/zunder-zsh).
+- My [Neovim config](https://github.com/Warbacon/nvim-config) is fast, lightweight and works both in Linux and Windows.
+- I have made Powershell [less horrible](https://github.com/Warbacon/powershell-profile).
+- I have some experience with web development. Sometimes I make experimental applications.
