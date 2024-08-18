@@ -8,5 +8,5 @@ Always eager to learn and contribute to open-source projects.
 ## 😎 Featured
 
 - ⚡ I'm maintaining [zunder-zsh](https://github.com/Warbacon/zunder-zsh). 
-- 💊 I made PowerShell suck less with my [powershell-profile](https://github.com/Warbacon/zunder-zsh).
+- 💊 I made PowerShell suck less with my [powershell-profile](https://github.com/Warbacon/powershell-profile).
 - 🧑‍💻 I think my [nvim-config](https://github.com/Warbacon/nvim-config) is great.
