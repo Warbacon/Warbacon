@@ -1,11 +1,12 @@
-# Hi there!
+# ¡Hola mundo! 👋
 
-I'm currently studying **computer engineering** at the *University of Cadiz*.
-I love **Linux** and the **open source** community.
+I'm proficient in Linux and Windows, with experience in C, C++, Python, Bash, Powershell and JavaScript.
+Always eager to learn and contribute to open-source projects.
 
-## Featured
+🚀 Check out my repos and let’s collaborate!
 
-- I'm maintaining [zunder-zsh](https://github.com/Warbacon/zunder-zsh).
-- My [Neovim config](https://github.com/Warbacon/nvim-config) is based on
-  [Lazyvim](https://github.com/LazyVim/LazyVim) and is incredibly fast and light.
-- I have some experience with web development. Sometimes I make experimental applications.
+## 😎 Featured
+
+- ⚡ I'm maintaining [zunder-zsh](https://github.com/Warbacon/zunder-zsh). 
+- 💊 I made PowerShell suck less with my [powershell-profile](https://github.com/Warbacon/zunder-zsh)
+- 🧑‍💻 I think my [Neovim config](https://github.com/Warbacon/nvim-config) is great.
