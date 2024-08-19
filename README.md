@@ -1,7 +1,9 @@
 # ¡Hola mundo! 👋
 
-I'm proficient in Linux and Windows, with experience in C, C++, Python, Bash, PowerShell and JavaScript.
-Always eager to learn and contribute to open-source projects.
+I'm pretty skilled with Linux and Windows, and I've got
+experience with C, C++, Python, Bash, PowerShell, and
+JavaScript. I'm always up for learning new things and
+love contributing to open-source projects.
 
 🚀 Check out my repos and let’s collaborate!
 
