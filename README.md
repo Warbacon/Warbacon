@@ -1,6 +1,6 @@
 # ¡Hola mundo! 👋
 
-Just a curious computer science student, always eager to learn. _I love Linux!_
+Just a curious Computer Science student, always eager to learn. _I love Linux!_
 
 🚀 Check out my repos and let’s collaborate:
 
